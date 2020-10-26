@@ -1429,7 +1429,7 @@ body.canvas-menu.mini-navbar nav.navbar-static-side {
   margin-top: 0;
 }
 .top-navigation .navbar-brand {
-  background: #1ab394;
+  background: #016a55;
   color: #fff;
   padding: 15px 25px;
   font-size: 18px;
@@ -7929,7 +7929,7 @@ body.landing-page {
 }
 .landing-page .navbar-default .navbar-brand:hover,
 .landing-page .navbar-default .navbar-brand:focus {
-  background: #179d82;
+  background: #038067;
   color: #fff;
 }
 .landing-page .navbar-default .navbar-brand {
@@ -7937,7 +7937,7 @@ body.landing-page {
   height: auto;
   display: block;
   font-size: 14px;
-  background: #1ab394;
+  background: #00a584;
   padding: 15px 20px 15px 20px;
   border-radius: 0 0 5px 5px;
   font-weight: 700;
